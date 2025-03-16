@@ -1,4 +1,4 @@
-const chai = require("chai");
+import chai from "chai";
 const expect = chai.expect;
 describe("Basic Test", () => {
   it("should pass a dummy test", () => {
