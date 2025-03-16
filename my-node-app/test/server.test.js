@@ -1,4 +1,4 @@
-import chai from "chai";
+import * as chai from "chai";
 const expect = chai.expect;
 describe("Basic Test", () => {
   it("should pass a dummy test", () => {
